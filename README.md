@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 Graphic, interface, ux, front-end and type design. 
 
-I’m curently launching my own type foundry [Nymark Type](https://www.nymarktype.co) and building a few websites with Kirby CMS.
+I’m currently launching my own type foundry [Nymark Type](https://www.nymarktype.co) and building a few websites with Kirby CMS.
