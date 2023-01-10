@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Sample characters from Tranemo font by Nymark Type](https://www.nymarktype.co/assets/images/cover.png)
+![Sample characters from Tranemo font by Nymark Type](https://files.andreas.nymark.co/tranemo.png)
 
 # 👋
 
